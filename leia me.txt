@@ -1,0 +1,4 @@
+Para escolher o método de resolução a ser usado,  use -c (na linha de comando) e digite:
+"1" - Para usar o algoritmo variante do força bruta
+"2" - Heurística 1
+"3" - Heurística 2
